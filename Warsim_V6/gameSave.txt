@@ -1,0 +1,4 @@
+Human Dagger Leather
+105 163 83
+Orc Sword Chainmail
+271 383 62
